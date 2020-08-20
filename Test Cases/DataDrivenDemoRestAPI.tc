@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenDemoRestAPI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>980192c1-ec99-427b-8b4d-05669f87cca1</testCaseGuid>
+   <variable>
+      <defaultValue>'hang'</defaultValue>
+      <description></description>
+      <id>2350ba76-5a28-4792-b811-28ad8dab57e3</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'QA'</defaultValue>
+      <description></description>
+      <id>8a172889-32fb-433d-a068-7ff4759159cc</id>
+      <masked>false</masked>
+      <name>Job</name>
+   </variable>
+</TestCaseEntity>
